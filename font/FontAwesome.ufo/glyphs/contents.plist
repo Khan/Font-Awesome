@@ -480,6 +480,8 @@
 	<string>ok.glif</string>
 	<key>ok_circle</key>
 	<string>ok_circle.glif</string>
+	<key>ok_dotted</key>
+	<string>ok_dotted.glif</string>
 	<key>ok_sign</key>
 	<string>ok_sign.glif</string>
 	<key>ol</key>

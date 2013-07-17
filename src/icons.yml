@@ -2588,3 +2588,10 @@ icons:
     created:    3.2
     categories:
       - Brand Icons
+
+  - name:       OK
+    id:         ok-dotted
+    unicode:    f18c
+    created:    3.3
+    categories:
+      - Web Application Icons
