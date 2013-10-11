@@ -2591,7 +2591,7 @@ icons:
 
   - name:       OK
     id:         ok-dotted
-    unicode:    f18c
+    unicode:    f190
     created:    3.3
     categories:
       - Web Application Icons
