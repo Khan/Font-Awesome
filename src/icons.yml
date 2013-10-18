@@ -2589,7 +2589,7 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       OK
+  - name:       OK Dotted
     id:         ok-dotted
     unicode:    f190
     created:    3.3
