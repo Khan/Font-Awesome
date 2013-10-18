@@ -2595,3 +2595,10 @@ icons:
     created:    3.3
     categories:
       - Web Application Icons
+
+  - name:       Coach Recommendation
+    id:         coach_rec
+    unicode:    f191
+    created:    3.4
+    categories:
+      - Brand Icons

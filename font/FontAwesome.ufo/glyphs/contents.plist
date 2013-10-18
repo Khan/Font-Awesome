@@ -174,6 +174,8 @@
 	<string>cloud_upload.glif</string>
 	<key>cny</key>
 	<string>cny.glif</string>
+	<key>coach_rec</key>
+	<string>coach_rec.glif</string>
 	<key>code</key>
 	<string>code.glif</string>
 	<key>code_fork</key>
