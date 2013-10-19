@@ -35,6 +35,7 @@ GEM
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
     safe_yaml (0.7.1)
+    sass (3.2.12)
     syntax (1.0.0)
     yajl-ruby (1.1.0)
 
@@ -43,4 +44,5 @@ PLATFORMS
 
 DEPENDENCIES
   debugger
-  jekyll (= 1.0)
+  jekyll (~> 1.0)
+  sass
