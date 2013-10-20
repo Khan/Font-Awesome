@@ -2597,7 +2597,7 @@ icons:
       - Web Application Icons
 
   - name:       Coach Recommendation
-    id:         coach_rec
+    id:         coach-rec
     unicode:    f191
     created:    3.4
     categories:
