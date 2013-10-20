@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="coach_rec" format="1">
   <advance width="1536"/>
+  <unicode hex="F191"/>
   <outline>
     <contour>
       <point x="407" y="202" type="line"/>
