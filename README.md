@@ -60,3 +60,33 @@ Build the project and documentation:
 Or serve it on a local server on http://localhost:7998/Font-Awesome/:
 
     $ bundle exec jekyll serve
+
+## Developing more glyphs and building the font
+
+In order to continue adding new glyphs to fontawesome while also retaining the ability to merge in changes from upstream fontawesome, all glyphs that we add should be in the `0xF300-0xF4FF` range of the PUA. this means that our glyphs will always show up sorted after the regular fontawesome glyphs.
+
+To start hacking on the font, crack open your editor of choice and work on `font/FontAwesome.ufo`. Having made your glyph, you should proceed to update the following files:
+
+* [ ] update `src/icons.yml` with your new glyph and unicode point
+* [ ] generate the font in `src/assets/font-awesome/font/`
+
+* generate the following fonts:
+* [ ] FontAwesome.otf, a cff opentype font
+* [ ] fontawesome-webfont.ttf
+* [ ] fontawesome-webfont.eot
+* [ ] fontawesome-webfont.woff
+* [ ] fontawesome-webfont.svg
+
+in the project root, you can *now* do
+```
+    bundle exec jekyll build
+    bundle exec jekyll serve
+```
+
+the files that this generates are placed in `$ROOT/less/` and in `$ROOT/font/`. you can copy the fonts into our project's `/fonts` folder and the less files can go in `/stylesheets/fontawesome-package/`
+
+## Generating webfonts
+
+what a pain, but there are two options: the first is fontsquirrel. if you go this route you must not allow it to subset the webfont at all. since fontawesome's glyphs are all in the private use area, subsetting would cause no glyphs to be output.
+
+there's also FontPrep, a $5 mac app which takes care of doing this locally, but you need to rename everything.
