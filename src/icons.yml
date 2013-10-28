@@ -2591,14 +2591,14 @@ icons:
 
   - name:       OK Dotted
     id:         ok-dotted
-    unicode:    f190
+    unicode:    f300
     created:    3.3
     categories:
       - Web Application Icons
 
   - name:       Coach Recommendation
     id:         coach-rec
-    unicode:    f191
+    unicode:    f301
     created:    3.4
     categories:
       - Brand Icons
