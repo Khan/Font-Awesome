@@ -30,6 +30,8 @@
 	<string>_373.glif</string>
 	<key>_374</key>
 	<string>_374.glif</string>
+	<key>activity</key>
+	<string>activity.glif</string>
 	<key>acute</key>
 	<string>acute.glif</string>
 	<key>adjust</key>
@@ -74,6 +76,8 @@
 	<string>asterisk.glif</string>
 	<key>backward</key>
 	<string>backward.glif</string>
+	<key>badge</key>
+	<string>badge.glif</string>
 	<key>ban_circle</key>
 	<string>ban_circle.glif</string>
 	<key>bar_chart</key>
@@ -176,6 +180,8 @@
 	<string>cny.glif</string>
 	<key>coach_rec</key>
 	<string>coach_rec.glif</string>
+	<key>coaches</key>
+	<string>coaches.glif</string>
 	<key>code</key>
 	<string>code.glif</string>
 	<key>code_fork</key>
@@ -222,6 +228,8 @@
 	<string>desktop.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
+	<key>discussion</key>
+	<string>discussion.glif</string>
 	<key>double_angle_down</key>
 	<string>double_angle_down.glif</string>
 	<key>double_angle_left</key>
@@ -310,6 +318,8 @@
 	<string>flag_checkered.glif</string>
 	<key>flickr</key>
 	<string>flickr.glif</string>
+	<key>focus</key>
+	<string>focus.glif</string>
 	<key>folder_close</key>
 	<string>folder_close.glif</string>
 	<key>folder_close_alt</key>
@@ -348,6 +358,8 @@
 	<string>glass.glif</string>
 	<key>globe</key>
 	<string>globe.glif</string>
+	<key>goals</key>
+	<string>goals.glif</string>
 	<key>google_plus</key>
 	<string>google_plus.glif</string>
 	<key>google_plus_sign</key>
@@ -520,6 +532,8 @@
 	<string>plus_sign.glif</string>
 	<key>print</key>
 	<string>print.glif</string>
+	<key>progress</key>
+	<string>progress.glif</string>
 	<key>pushpin</key>
 	<string>pushpin.glif</string>
 	<key>puzzle_piece</key>
@@ -574,6 +588,8 @@
 	<string>rss.glif</string>
 	<key>save</key>
 	<string>save.glif</string>
+	<key>scratchpad</key>
+	<string>scratchpad.glif</string>
 	<key>screenshot</key>
 	<string>screenshot.glif</string>
 	<key>search</key>

@@ -2602,3 +2602,59 @@ icons:
     created:    3.4
     categories:
       - Brand Icons
+
+  - name:       Badge
+    id:         badge
+    unicode:    f302
+    created:    3.5
+    categories:
+      - Brand Icons
+
+  - name:       Activity
+    id:         activity
+    unicode:    f303
+    created:    3.5
+    categories:
+      - Brand Icons
+
+  - name:       Focus
+    id:         focus
+    unicode:    f304
+    created:    3.5
+    categories:
+      - Brand Icons
+
+  - name:       Goals
+    id:         goals
+    unicode:    f305
+    created:    3.5
+    categories:
+      - Brand Icons
+
+  - name:       Skill Progress
+    id:         progress
+    unicode:    f306
+    created:    3.5
+    categories:
+      - Brand Icons
+
+  - name:       Scratchpads
+    id:         scratchpad
+    unicode:    f307
+    created:    3.5
+    categories:
+      - Brand Icons
+
+  - name:       Discussion
+    id:         discussion
+    unicode:    f308
+    created:    3.5
+    categories:
+      - Brand Icons
+
+  - name:       Coaches
+    id:         coaches
+    unicode:    f309
+    created:    3.5
+    categories:
+      - Brand Icons

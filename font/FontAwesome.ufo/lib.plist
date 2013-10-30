@@ -11,9 +11,9 @@
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/marcos/projects/etc/type/Font-Awesome/font/FontAwesome.ttf</string>
+	<string>/Users/marcos/projects/etc/type/Font-Awesome/font/FontAwesome.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -409,6 +409,11 @@
 				<string>_374</string>
 				<string>ok_dotted</string>
 				<string>coach_rec</string>
+				<string>badge</string>
+				<string>activity</string>
+				<string>focus</string>
+				<string>goals</string>
+				<string>progress</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -792,6 +797,14 @@
 		<string>_374</string>
 		<string>ok_dotted</string>
 		<string>coach_rec</string>
+		<string>badge</string>
+		<string>activity</string>
+		<string>focus</string>
+		<string>goals</string>
+		<string>progress</string>
+		<string>scratchpad</string>
+		<string>discussion</string>
+		<string>coaches</string>
 	</array>
 </dict>
 </plist>
