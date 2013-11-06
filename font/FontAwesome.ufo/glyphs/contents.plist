@@ -360,6 +360,8 @@
 	<string>globe.glif</string>
 	<key>goals</key>
 	<string>goals.glif</string>
+	<key>google</key>
+	<string>google.glif</string>
 	<key>google_plus</key>
 	<string>google_plus.glif</string>
 	<key>google_plus_sign</key>

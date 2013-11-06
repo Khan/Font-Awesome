@@ -1,5 +1,5 @@
 /*!
- *  Font Awesome 3.4.1
+ *  Font Awesome 3.5.1
  *  the iconic font designed for Bootstrap
  *  ------------------------------------------------------------------------------
  *  The full suite of pictographic icons, examples, and documentation can be
@@ -27,8 +27,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('../font/fontawesome-webfont.eot?v=3.4.1');
-  src: url('../font/fontawesome-webfont.eot?#iefix&v=3.4.1') format('embedded-opentype'), url('../font/fontawesome-webfont.woff?v=3.4.1') format('woff'), url('../font/fontawesome-webfont.ttf?v=3.4.1') format('truetype'), url('../font/fontawesome-webfont.svg#fontawesomeregular?v=3.4.1') format('svg');
+  src: url('../font/fontawesome-webfont.eot?v=3.5.1');
+  src: url('../font/fontawesome-webfont.eot?#iefix&v=3.5.1') format('embedded-opentype'), url('../font/fontawesome-webfont.woff?v=3.5.1') format('woff'), url('../font/fontawesome-webfont.ttf?v=3.5.1') format('truetype'), url('../font/fontawesome-webfont.svg#fontawesomeregular?v=3.5.1') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -1478,8 +1478,35 @@ a .icon-flip-vertical:before {
   content: "\f18b";
 }
 .icon-ok-dotted:before {
-  content: "\f190";
+  content: "\f300";
 }
 .icon-coach-rec:before {
-  content: "\f191";
+  content: "\f301";
+}
+.icon-badge:before {
+  content: "\f302";
+}
+.icon-activity:before {
+  content: "\f303";
+}
+.icon-focus:before {
+  content: "\f304";
+}
+.icon-goals:before {
+  content: "\f305";
+}
+.icon-progress:before {
+  content: "\f306";
+}
+.icon-scratchpad:before {
+  content: "\f307";
+}
+.icon-discussion:before {
+  content: "\f308";
+}
+.icon-coaches:before {
+  content: "\f309";
+}
+.icon-google:before {
+  content: "\f310";
 }

@@ -382,5 +382,14 @@ a [class^="icon-"],a [class*=" icon-"]{cursor:pointer}
 .icon-vk{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf189;')}
 .icon-weibo{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf18a;')}
 .icon-renren{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf18b;')}
-.icon-ok-dotted{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf190;')}
-.icon-coach-rec{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf191;')}
+.icon-ok-dotted{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf300;')}
+.icon-coach-rec{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf301;')}
+.icon-badge{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf302;')}
+.icon-activity{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf303;')}
+.icon-focus{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf304;')}
+.icon-goals{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf305;')}
+.icon-progress{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf306;')}
+.icon-scratchpad{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf307;')}
+.icon-discussion{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf308;')}
+.icon-coaches{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf309;')}
+.icon-google{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf310;')}

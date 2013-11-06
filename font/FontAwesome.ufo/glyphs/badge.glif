@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="badge" format="1">
   <advance width="1536"/>
+  <unicode hex="F302"/>
   <outline>
     <contour>
       <point x="767" y="1408" type="line"/>

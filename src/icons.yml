@@ -2658,3 +2658,10 @@ icons:
     created:    3.5
     categories:
       - Brand Icons
+
+  - name:       Google
+    id:         google
+    unicode:    f310
+    created:    3.5
+    categories:
+      - Brand Icons
