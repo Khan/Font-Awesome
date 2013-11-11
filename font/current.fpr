@@ -1,6 +1,0 @@
-InputFontPath	./FontAwesome.ufo
-OutputFontPath	./FontAwesome.otf
-FeaturePath	FontAwesome.fdk/features
-GlyphAliasDBPath	FontAwesome.fdk/glyphOrder
-FontMenuDBPath	FontAwesome.fdk/menuname
-ReleaseMode	true
