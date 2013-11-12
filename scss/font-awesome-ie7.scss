@@ -509,6 +509,10 @@ a [class*=" icon-"] {
   @include ie7icon('&#xf058;');
 }
 
+.icon-goals {
+  @include ie7icon('&#xf058;');
+}
+
 
 .icon-question-sign {
   @include ie7icon('&#xf059;');
@@ -1977,11 +1981,6 @@ a [class*=" icon-"] {
 
 .icon-focus {
   @include ie7icon('&#xf304;');
-}
-
-
-.icon-goals {
-  @include ie7icon('&#xf305;');
 }
 
 

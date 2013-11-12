@@ -595,6 +595,8 @@ icons:
     id:         ok-sign
     unicode:    f058
     created:    1.0
+    aliases:
+      - goals
     categories:
       - Web Application Icons
 
@@ -2622,13 +2624,6 @@ icons:
   - name:       Focus
     id:         focus
     unicode:    f304
-    created:    3.5
-    categories:
-      - Brand Icons
-
-  - name:       Goals
-    id:         goals
-    unicode:    f305
     created:    3.5
     categories:
       - Brand Icons

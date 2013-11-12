@@ -91,6 +91,7 @@ a [class^="icon-"],a [class*=" icon-"]{cursor:pointer}
 .icon-minus-sign{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf056;')}
 .icon-remove-sign{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf057;')}
 .icon-ok-sign{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf058;')}
+.icon-goals{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf058;')}
 .icon-question-sign{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf059;')}
 .icon-info-sign{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf05a;')}
 .icon-screenshot{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf05b;')}
@@ -388,7 +389,6 @@ a [class^="icon-"],a [class*=" icon-"]{cursor:pointer}
 .icon-badge{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf302;')}
 .icon-activity{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf303;')}
 .icon-focus{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf304;')}
-.icon-goals{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf305;')}
 .icon-progress{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf306;')}
 .icon-scratchpad{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf307;')}
 .icon-coaches{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf309;')}

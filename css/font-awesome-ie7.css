@@ -328,6 +328,9 @@ a [class*=" icon-"] {
 .icon-ok-sign {
   *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf058;');
 }
+.icon-goals {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf058;');
+}
 .icon-question-sign {
   *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf059;');
 }
@@ -1218,9 +1221,6 @@ a [class*=" icon-"] {
 }
 .icon-focus {
   *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf304;');
-}
-.icon-goals {
-  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf305;');
 }
 .icon-progress {
   *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf306;');
