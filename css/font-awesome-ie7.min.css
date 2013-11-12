@@ -136,6 +136,7 @@ a [class^="icon-"],a [class*=" icon-"]{cursor:pointer}
 .icon-cogs{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf085;')}
 .icon-gears{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf085;')}
 .icon-comments{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf086;')}
+.icon-discussion{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf086;')}
 .icon-thumbs-up-alt{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf087;')}
 .icon-thumbs-down-alt{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf088;')}
 .icon-star-half{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf089;')}
@@ -390,6 +391,5 @@ a [class^="icon-"],a [class*=" icon-"]{cursor:pointer}
 .icon-goals{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf305;')}
 .icon-progress{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf306;')}
 .icon-scratchpad{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf307;')}
-.icon-discussion{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf308;')}
 .icon-coaches{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf309;')}
 .icon-google{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf310;')}

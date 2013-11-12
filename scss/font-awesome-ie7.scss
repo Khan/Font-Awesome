@@ -1,5 +1,5 @@
 /*!
- *  Font Awesome 3.5.3
+ *  Font Awesome 3.5.4
  *  the iconic font designed for Bootstrap
  *  ------------------------------------------------------------------------------
  *  The full suite of pictographic icons, examples, and documentation can be
@@ -729,6 +729,10 @@ a [class*=" icon-"] {
 
 
 .icon-comments {
+  @include ie7icon('&#xf086;');
+}
+
+.icon-discussion {
   @include ie7icon('&#xf086;');
 }
 
@@ -1988,11 +1992,6 @@ a [class*=" icon-"] {
 
 .icon-scratchpad {
   @include ie7icon('&#xf307;');
-}
-
-
-.icon-discussion {
-  @include ie7icon('&#xf308;');
 }
 
 

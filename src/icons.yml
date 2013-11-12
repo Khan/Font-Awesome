@@ -903,6 +903,8 @@ icons:
     id:         comments
     unicode:    f086
     created:    1.0
+    aliases:
+      - discussion
     categories:
       - Web Application Icons
 
@@ -2641,13 +2643,6 @@ icons:
   - name:       Scratchpads
     id:         scratchpad
     unicode:    f307
-    created:    3.5
-    categories:
-      - Brand Icons
-
-  - name:       Discussion
-    id:         discussion
-    unicode:    f308
     created:    3.5
     categories:
       - Brand Icons

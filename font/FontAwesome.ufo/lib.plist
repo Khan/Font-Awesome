@@ -415,7 +415,6 @@
 				<string>goals</string>
 				<string>progress</string>
 				<string>scratchpad</string>
-				<string>discussion</string>
 				<string>coaches</string>
 				<string>google</string>
 			</array>
@@ -807,7 +806,6 @@
 		<string>goals</string>
 		<string>progress</string>
 		<string>scratchpad</string>
-		<string>discussion</string>
 		<string>coaches</string>
 		<string>google</string>
 	</array>
