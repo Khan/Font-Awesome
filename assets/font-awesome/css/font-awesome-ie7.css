@@ -1,9 +1,9 @@
 /*!
- *  Font Awesome 3.2.1
+ *  Font Awesome 3.5.4
  *  the iconic font designed for Bootstrap
  *  ------------------------------------------------------------------------------
  *  The full suite of pictographic icons, examples, and documentation can be
- *  found at http://fontawesome.io.  Stay up to date on Twitter at
+ *  found at .  Stay up to date on Twitter at
  *  http://twitter.com/fontawesome.
  *
  *  License
@@ -15,7 +15,7 @@
  *  - Font Awesome documentation licensed under CC BY 3.0 -
  *    http://creativecommons.org/licenses/by/3.0/
  *  - Attribution is no longer required in Font Awesome 3.0, but much appreciated:
- *    "Font Awesome by Dave Gandy - http://fontawesome.io"
+ *    "Font Awesome by Dave Gandy - "
  *
  *  Author - Dave Gandy
  *  ------------------------------------------------------------------------------
@@ -328,6 +328,9 @@ a [class*=" icon-"] {
 .icon-ok-sign {
   *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf058;');
 }
+.icon-goals {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf058;');
+}
 .icon-question-sign {
   *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf059;');
 }
@@ -461,6 +464,9 @@ a [class*=" icon-"] {
   *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf085;');
 }
 .icon-comments {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf086;');
+}
+.icon-discussion {
   *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf086;');
 }
 .icon-thumbs-up-alt {
@@ -1200,4 +1206,31 @@ a [class*=" icon-"] {
 }
 .icon-renren {
   *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf18b;');
+}
+.icon-ok-dotted {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf300;');
+}
+.icon-coach-rec {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf301;');
+}
+.icon-badge {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf302;');
+}
+.icon-activity {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf303;');
+}
+.icon-focus {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf304;');
+}
+.icon-progress {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf306;');
+}
+.icon-scratchpad {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf307;');
+}
+.icon-coaches {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf309;');
+}
+.icon-google {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf310;');
 }

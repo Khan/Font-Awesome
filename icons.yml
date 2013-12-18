@@ -595,6 +595,8 @@ icons:
     id:         ok-sign
     unicode:    f058
     created:    1.0
+    aliases:
+      - goals
     categories:
       - Web Application Icons
 
@@ -903,6 +905,8 @@ icons:
     id:         comments
     unicode:    f086
     created:    1.0
+    aliases:
+      - discussion
     categories:
       - Web Application Icons
 
@@ -2586,5 +2590,68 @@ icons:
     id:         renren
     unicode:    f18b
     created:    3.2
+    categories:
+      - Brand Icons
+
+  - name:       OK Dotted
+    id:         ok-dotted
+    unicode:    f300
+    created:    3.3
+    categories:
+      - Web Application Icons
+
+  - name:       Coach Recommendation
+    id:         coach-rec
+    unicode:    f301
+    created:    3.4
+    categories:
+      - Brand Icons
+
+  - name:       Badge
+    id:         badge
+    unicode:    f302
+    created:    3.5
+    categories:
+      - Brand Icons
+
+  - name:       Activity
+    id:         activity
+    unicode:    f303
+    created:    3.5
+    categories:
+      - Brand Icons
+
+  - name:       Focus
+    id:         focus
+    unicode:    f304
+    created:    3.5
+    categories:
+      - Brand Icons
+
+  - name:       Skill Progress
+    id:         progress
+    unicode:    f306
+    created:    3.5
+    categories:
+      - Brand Icons
+
+  - name:       Scratchpads
+    id:         scratchpad
+    unicode:    f307
+    created:    3.5
+    categories:
+      - Brand Icons
+
+  - name:       Coaches
+    id:         coaches
+    unicode:    f309
+    created:    3.5
+    categories:
+      - Brand Icons
+
+  - name:       Google
+    id:         google
+    unicode:    f310
+    created:    3.5
     categories:
       - Brand Icons
