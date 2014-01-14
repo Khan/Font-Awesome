@@ -421,6 +421,7 @@
 				<string>scratchpad</string>
 				<string>coaches</string>
 				<string>google</string>
+				<string>notification</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -812,6 +813,7 @@
 		<string>scratchpad</string>
 		<string>coaches</string>
 		<string>google</string>
+		<string>notification</string>
 	</array>
 </dict>
 </plist>

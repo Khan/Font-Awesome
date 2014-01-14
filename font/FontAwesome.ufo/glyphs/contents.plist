@@ -488,6 +488,8 @@
 	<string>music.glif</string>
 	<key>notequal</key>
 	<string>notequal.glif</string>
+	<key>notification</key>
+	<string>notification.glif</string>
 	<key>off</key>
 	<string>off.glif</string>
 	<key>ok</key>
