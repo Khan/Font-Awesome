@@ -1,5 +1,5 @@
 /*!
- *  Font Awesome 3.5.4
+ *  Font Awesome 3.5.5
  *  the iconic font designed for Bootstrap
  *  ------------------------------------------------------------------------------
  *  The full suite of pictographic icons, examples, and documentation can be
@@ -1233,4 +1233,7 @@ a [class*=" icon-"] {
 }
 .icon-google {
   *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf310;');
+}
+.icon-notification {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf311;');
 }
