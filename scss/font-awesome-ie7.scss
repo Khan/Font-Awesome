@@ -1,5 +1,5 @@
 /*!
- *  Font Awesome 3.5.5
+ *  Font Awesome 3.6.0
  *  the iconic font designed for Bootstrap
  *  ------------------------------------------------------------------------------
  *  The full suite of pictographic icons, examples, and documentation can be
@@ -766,11 +766,6 @@ a [class*=" icon-"] {
 }
 
 
-.icon-linkedin-sign {
-  @include ie7icon('&#xf08c;');
-}
-
-
 .icon-pushpin {
   @include ie7icon('&#xf08d;');
 }
@@ -1039,16 +1034,6 @@ a [class*=" icon-"] {
 }
 
 
-.icon-pinterest {
-  @include ie7icon('&#xf0d2;');
-}
-
-
-.icon-pinterest-sign {
-  @include ie7icon('&#xf0d3;');
-}
-
-
 .icon-google-plus-sign {
   @include ie7icon('&#xf0d4;');
 }
@@ -1235,11 +1220,6 @@ a [class*=" icon-"] {
 
 .icon-medkit {
   @include ie7icon('&#xf0fa;');
-}
-
-
-.icon-fighter-jet {
-  @include ie7icon('&#xf0fb;');
 }
 
 
@@ -1526,11 +1506,6 @@ a [class*=" icon-"] {
 }
 
 
-.icon-maxcdn {
-  @include ie7icon('&#xf136;');
-}
-
-
 .icon-chevron-sign-left {
   @include ie7icon('&#xf137;');
 }
@@ -1548,16 +1523,6 @@ a [class*=" icon-"] {
 
 .icon-chevron-sign-down {
   @include ie7icon('&#xf13a;');
-}
-
-
-.icon-html5 {
-  @include ie7icon('&#xf13b;');
-}
-
-
-.icon-css3 {
-  @include ie7icon('&#xf13c;');
 }
 
 
@@ -1789,16 +1754,6 @@ a [class*=" icon-"] {
 }
 
 
-.icon-xing {
-  @include ie7icon('&#xf168;');
-}
-
-
-.icon-xing-sign {
-  @include ie7icon('&#xf169;');
-}
-
-
 .icon-youtube-play {
   @include ie7icon('&#xf16a;');
 }
@@ -1809,43 +1764,8 @@ a [class*=" icon-"] {
 }
 
 
-.icon-stackexchange {
-  @include ie7icon('&#xf16c;');
-}
-
-
-.icon-instagram {
-  @include ie7icon('&#xf16d;');
-}
-
-
-.icon-flickr {
-  @include ie7icon('&#xf16e;');
-}
-
-
-.icon-adn {
-  @include ie7icon('&#xf170;');
-}
-
-
-.icon-bitbucket {
-  @include ie7icon('&#xf171;');
-}
-
-
-.icon-bitbucket-sign {
-  @include ie7icon('&#xf172;');
-}
-
-
 .icon-tumblr {
   @include ie7icon('&#xf173;');
-}
-
-
-.icon-tumblr-sign {
-  @include ie7icon('&#xf174;');
 }
 
 
@@ -1866,41 +1786,6 @@ a [class*=" icon-"] {
 
 .icon-long-arrow-right {
   @include ie7icon('&#xf178;');
-}
-
-
-.icon-apple {
-  @include ie7icon('&#xf179;');
-}
-
-
-.icon-windows {
-  @include ie7icon('&#xf17a;');
-}
-
-
-.icon-android {
-  @include ie7icon('&#xf17b;');
-}
-
-
-.icon-linux {
-  @include ie7icon('&#xf17c;');
-}
-
-
-.icon-dribbble {
-  @include ie7icon('&#xf17d;');
-}
-
-
-.icon-skype {
-  @include ie7icon('&#xf17e;');
-}
-
-
-.icon-foursquare {
-  @include ie7icon('&#xf180;');
 }
 
 
@@ -1941,21 +1826,6 @@ a [class*=" icon-"] {
 
 .icon-bug {
   @include ie7icon('&#xf188;');
-}
-
-
-.icon-vk {
-  @include ie7icon('&#xf189;');
-}
-
-
-.icon-weibo {
-  @include ie7icon('&#xf18a;');
-}
-
-
-.icon-renren {
-  @include ie7icon('&#xf18b;');
 }
 
 

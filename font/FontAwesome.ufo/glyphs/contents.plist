@@ -36,8 +36,6 @@
 	<string>acute.glif</string>
 	<key>adjust</key>
 	<string>adjust.glif</string>
-	<key>adn</key>
-	<string>adn.glif</string>
 	<key>align_center</key>
 	<string>align_center.glif</string>
 	<key>align_justify</key>
@@ -50,8 +48,6 @@
 	<string>ambulance.glif</string>
 	<key>anchor</key>
 	<string>anchor.glif</string>
-	<key>android</key>
-	<string>android.glif</string>
 	<key>angle_down</key>
 	<string>angle_down.glif</string>
 	<key>angle_left</key>
@@ -60,8 +56,6 @@
 	<string>angle_right.glif</string>
 	<key>angle_up</key>
 	<string>angle_up.glif</string>
-	<key>apple</key>
-	<string>apple.glif</string>
 	<key>archive</key>
 	<string>archive.glif</string>
 	<key>arrow_down</key>
@@ -92,8 +86,6 @@
 	<string>bell.glif</string>
 	<key>bell_alt</key>
 	<string>bell_alt.glif</string>
-	<key>bitbucket_sign</key>
-	<string>bitbucket_sign.glif</string>
 	<key>bold</key>
 	<string>bold.glif</string>
 	<key>bolt</key>
@@ -218,8 +210,6 @@
 	<string>credit_card.glif</string>
 	<key>crop</key>
 	<string>crop.glif</string>
-	<key>css3</key>
-	<string>css3.glif</string>
 	<key>cut</key>
 	<string>cut.glif</string>
 	<key>dashboard</key>
@@ -240,8 +230,6 @@
 	<string>download.glif</string>
 	<key>download_alt</key>
 	<string>download_alt.glif</string>
-	<key>dribble</key>
-	<string>dribble.glif</string>
 	<key>dropbox</key>
 	<string>dropbox.glif</string>
 	<key>edit</key>
@@ -276,8 +264,6 @@
 	<string>eye_open.glif</string>
 	<key>f0fe</key>
 	<string>f0fe.glif</string>
-	<key>f171</key>
-	<string>f171.glif</string>
 	<key>facebook</key>
 	<string>facebook.glif</string>
 	<key>facebook_sign</key>
@@ -290,8 +276,6 @@
 	<string>fast_forward.glif</string>
 	<key>female</key>
 	<string>female.glif</string>
-	<key>fighter_jet</key>
-	<string>fighter_jet.glif</string>
 	<key>file</key>
 	<string>file.glif</string>
 	<key>file_alt</key>
@@ -314,8 +298,6 @@
 	<string>flag_alt.glif</string>
 	<key>flag_checkered</key>
 	<string>flag_checkered.glif</string>
-	<key>flickr</key>
-	<string>flickr.glif</string>
 	<key>focus</key>
 	<string>focus.glif</string>
 	<key>folder_close</key>
@@ -332,8 +314,6 @@
 	<string>food.glif</string>
 	<key>forward</key>
 	<string>forward.glif</string>
-	<key>foursquare</key>
-	<string>foursquare.glif</string>
 	<key>frown</key>
 	<string>frown.glif</string>
 	<key>fullscreen</key>
@@ -388,8 +368,6 @@
 	<string>home.glif</string>
 	<key>hospital</key>
 	<string>hospital.glif</string>
-	<key>html5</key>
-	<string>html5.glif</string>
 	<key>inbox</key>
 	<string>inbox.glif</string>
 	<key>indent_left</key>
@@ -402,8 +380,6 @@
 	<string>info_sign.glif</string>
 	<key>inr</key>
 	<string>inr.glif</string>
-	<key>instagram</key>
-	<string>instagram.glif</string>
 	<key>italic</key>
 	<string>italic.glif</string>
 	<key>jpy</key>
@@ -434,10 +410,6 @@
 	<string>link.glif</string>
 	<key>linkedin</key>
 	<string>linkedin.glif</string>
-	<key>linkedin_sign</key>
-	<string>linkedin_sign.glif</string>
-	<key>linux</key>
-	<string>linux.glif</string>
 	<key>list</key>
 	<string>list.glif</string>
 	<key>list_alt</key>
@@ -462,8 +434,6 @@
 	<string>male.glif</string>
 	<key>map_marker</key>
 	<string>map_marker.glif</string>
-	<key>maxcdn</key>
-	<string>maxcdn.glif</string>
 	<key>medkit</key>
 	<string>medkit.glif</string>
 	<key>meh</key>
@@ -516,10 +486,6 @@
 	<string>phone_sign.glif</string>
 	<key>picture</key>
 	<string>picture.glif</string>
-	<key>pinterest</key>
-	<string>pinterest.glif</string>
-	<key>pinterest_sign</key>
-	<string>pinterest_sign.glif</string>
 	<key>plane</key>
 	<string>plane.glif</string>
 	<key>play</key>
@@ -562,8 +528,6 @@
 	<string>remove_circle.glif</string>
 	<key>remove_sign</key>
 	<string>remove_sign.glif</string>
-	<key>renren</key>
-	<string>renren.glif</string>
 	<key>reorder</key>
 	<string>reorder.glif</string>
 	<key>repeat</key>
@@ -616,8 +580,6 @@
 	<string>signout.glif</string>
 	<key>sitemap</key>
 	<string>sitemap.glif</string>
-	<key>skype</key>
-	<string>skype.glif</string>
 	<key>smile</key>
 	<string>smile.glif</string>
 	<key>sort</key>
@@ -640,8 +602,6 @@
 	<string>space.glif</string>
 	<key>spinner</key>
 	<string>spinner.glif</string>
-	<key>stackexchange</key>
-	<string>stackexchange.glif</string>
 	<key>star</key>
 	<string>star.glif</string>
 	<key>star_empty</key>
@@ -712,8 +672,6 @@
 	<string>truck.glif</string>
 	<key>tumblr</key>
 	<string>tumblr.glif</string>
-	<key>tumblr_sign</key>
-	<string>tumblr_sign.glif</string>
 	<key>twitter</key>
 	<string>twitter.glif</string>
 	<key>twitter_sign</key>
@@ -742,8 +700,6 @@
 	<string>user.glif</string>
 	<key>user_md</key>
 	<string>user_md.glif</string>
-	<key>vk</key>
-	<string>vk.glif</string>
 	<key>volume_down</key>
 	<string>volume_down.glif</string>
 	<key>volume_off</key>
@@ -752,16 +708,8 @@
 	<string>volume_up.glif</string>
 	<key>warning_sign</key>
 	<string>warning_sign.glif</string>
-	<key>weibo</key>
-	<string>weibo.glif</string>
-	<key>windows</key>
-	<string>windows.glif</string>
 	<key>wrench</key>
 	<string>wrench.glif</string>
-	<key>xing</key>
-	<string>xing.glif</string>
-	<key>xing_sign</key>
-	<string>xing_sign.glif</string>
 	<key>youtube</key>
 	<string>youtube.glif</string>
 	<key>youtube_play</key>

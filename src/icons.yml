@@ -945,13 +945,6 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       linkedin-sign
-    id:         linkedin-sign
-    unicode:    f08c
-    created:    1.0
-    categories:
-      - Brand Icons
-
   - name:       pushpin
     id:         pushpin
     unicode:    f08d
@@ -1325,20 +1318,6 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       pinterest
-    id:         pinterest
-    unicode:    f0d2
-    created:    2.0
-    categories:
-      - Brand Icons
-
-  - name:       pinterest-sign
-    id:         pinterest-sign
-    unicode:    f0d3
-    created:    2.0
-    categories:
-      - Brand Icons
-
   - name:       google-plus-sign
     id:         google-plus-sign
     unicode:    f0d4
@@ -1602,13 +1581,6 @@ icons:
     created:    3.0
     categories:
       - Medical Icons
-
-  - name:       fighter-jet
-    id:         fighter-jet
-    unicode:    f0fb
-    created:    3.0
-    categories:
-      - Web Application Icons
 
   - name:       beer
     id:         beer
@@ -2005,13 +1977,6 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       MaxCDN
-    id:         maxcdn
-    unicode:    f136
-    created:    3.1
-    categories:
-      - Brand Icons
-
   - name:       Chevron Sign Left
     id:         chevron-sign-left
     unicode:    f137
@@ -2039,20 +2004,6 @@ icons:
     created:    3.1
     categories:
       - Directional Icons
-
-  - name:       HTML 5 Logo
-    id:         html5
-    unicode:    f13b
-    created:    3.1
-    categories:
-      - Brand Icons
-
-  - name:       CSS 3 Logo
-    id:         css3
-    unicode:    f13c
-    created:    3.1
-    categories:
-      - Brand Icons
 
   - name:       Anchor
     id:         anchor
@@ -2353,20 +2304,6 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Xing
-    id:         xing
-    unicode:    f168
-    created:    3.2
-    categories:
-      - Brand Icons
-
-  - name:       Xing Sign
-    id:         xing-sign
-    unicode:    f169
-    created:    3.2
-    categories:
-      - Brand Icons
-
   - name:       YouTube Play
     id:         youtube-play
     unicode:    f16a
@@ -2382,58 +2319,9 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Stack Exchange
-    id:         stackexchange
-    unicode:    f16c
-    created:    3.2
-    categories:
-      - Brand Icons
-
-  - name:       Instagram
-    id:         instagram
-    unicode:    f16d
-    created:    3.2
-    categories:
-      - Brand Icons
-
-  - name:       Flickr
-    id:         flickr
-    unicode:    f16e
-    created:    3.2
-    categories:
-      - Brand Icons
-
-  - name:       App.net
-    id:         adn
-    unicode:    f170
-    created:    3.2
-    categories:
-      - Brand Icons
-
-  - name:       Bitbucket
-    id:         bitbucket
-    unicode:    f171
-    created:    3.2
-    categories:
-      - Brand Icons
-
-  - name:       Bitbucket Sign
-    id:         bitbucket-sign
-    unicode:    f172
-    created:    3.2
-    categories:
-      - Brand Icons
-
   - name:       Tumblr
     id:         tumblr
     unicode:    f173
-    created:    3.2
-    categories:
-      - Brand Icons
-
-  - name:       Tumblr Sign
-    id:         tumblr-sign
-    unicode:    f174
     created:    3.2
     categories:
       - Brand Icons
@@ -2465,56 +2353,6 @@ icons:
     created:    3.2
     categories:
       - Directional Icons
-
-  - name:       Apple
-    id:         apple
-    unicode:    f179
-    created:    3.2
-    categories:
-      - Brand Icons
-
-  - name:       Windows
-    id:         windows
-    unicode:    f17a
-    created:    3.2
-    categories:
-      - Brand Icons
-
-  - name:       Android
-    id:         android
-    unicode:    f17b
-    created:    3.2
-    categories:
-      - Brand Icons
-
-  - name:       Linux
-    id:         linux
-    unicode:    f17c
-    created:    3.2
-    categories:
-      - Brand Icons
-
-  - name:       Dribbble
-    id:         dribbble
-    unicode:    f17d
-    created:    3.2
-    categories:
-      - Brand Icons
-
-  - name:       Skype
-    id:         skype
-    unicode:    f17e
-    created:    3.2
-    categories:
-      - Brand Icons
-
-
-  - name:       Foursquare
-    id:         foursquare
-    unicode:    f180
-    created:    3.2
-    categories:
-      - Brand Icons
 
   - name:       Trello
     id:         trello
@@ -2571,27 +2409,6 @@ icons:
     created:    3.2
     categories:
       - Web Application Icons
-
-  - name:       VK
-    id:         vk
-    unicode:    f189
-    created:    3.2
-    categories:
-      - Brand Icons
-
-  - name:       Weibo
-    id:         weibo
-    unicode:    f18a
-    created:    3.2
-    categories:
-      - Brand Icons
-
-  - name:       Renren
-    id:         renren
-    unicode:    f18b
-    created:    3.2
-    categories:
-      - Brand Icons
 
   - name:       OK Dotted
     id:         ok-dotted
