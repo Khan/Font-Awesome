@@ -2655,3 +2655,10 @@ icons:
     created:    3.5
     categories:
       - Brand Icons
+
+  - name:       Notification
+    id:         notification
+    unicode:    f311
+    created:    3.5
+    categories:
+      - Brand Icons

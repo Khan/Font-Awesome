@@ -393,3 +393,4 @@ a [class^="icon-"],a [class*=" icon-"]{cursor:pointer}
 .icon-scratchpad{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf307;')}
 .icon-coaches{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf309;')}
 .icon-google{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf310;')}
+.icon-notification{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf311;')}
