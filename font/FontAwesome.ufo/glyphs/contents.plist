@@ -4,8 +4,16 @@
 <dict>
 	<key>.notdef</key>
 	<string>_notdef.glif</string>
+	<key>A</key>
+	<string>A_.glif</string>
 	<key>AE</key>
 	<string>A_E_.glif</string>
+	<key>H</key>
+	<string>H_.glif</string>
+	<key>K</key>
+	<string>K_.glif</string>
+	<key>N</key>
+	<string>N_.glif</string>
 	<key>_279</key>
 	<string>_279.glif</string>
 	<key>_283</key>
@@ -30,6 +38,8 @@
 	<string>_373.glif</string>
 	<key>_374</key>
 	<string>_374.glif</string>
+	<key>a</key>
+	<string>a.glif</string>
 	<key>activity</key>
 	<string>activity.glif</string>
 	<key>acute</key>
@@ -104,10 +114,14 @@
 	<string>bug.glif</string>
 	<key>building</key>
 	<string>building.glif</string>
+	<key>bullet</key>
+	<string>bullet.glif</string>
 	<key>bullhorn</key>
 	<string>bullhorn.glif</string>
 	<key>bullseye</key>
 	<string>bullseye.glif</string>
+	<key>c</key>
+	<string>c.glif</string>
 	<key>calendar</key>
 	<string>calendar.glif</string>
 	<key>calendar_empty</key>
@@ -212,6 +226,8 @@
 	<string>crop.glif</string>
 	<key>cut</key>
 	<string>cut.glif</string>
+	<key>d</key>
+	<string>d.glif</string>
 	<key>dashboard</key>
 	<string>dashboard.glif</string>
 	<key>desktop</key>
@@ -232,6 +248,8 @@
 	<string>download_alt.glif</string>
 	<key>dropbox</key>
 	<string>dropbox.glif</string>
+	<key>e</key>
+	<string>e.glif</string>
 	<key>edit</key>
 	<string>edit.glif</string>
 	<key>edit_sign</key>
@@ -348,6 +366,8 @@
 	<string>group.glif</string>
 	<key>h_sign</key>
 	<string>h_sign.glif</string>
+	<key>half_circle</key>
+	<string>half_circle.glif</string>
 	<key>hand_down</key>
 	<string>hand_down.glif</string>
 	<key>hand_left</key>
@@ -380,6 +400,8 @@
 	<string>info_sign.glif</string>
 	<key>inr</key>
 	<string>inr.glif</string>
+	<key>inset_circle</key>
+	<string>inset_circle.glif</string>
 	<key>italic</key>
 	<string>italic.glif</string>
 	<key>jpy</key>
@@ -426,6 +448,8 @@
 	<string>long_arrow_right.glif</string>
 	<key>long_arrow_up</key>
 	<string>long_arrow_up.glif</string>
+	<key>m</key>
+	<string>m.glif</string>
 	<key>magic</key>
 	<string>magic.glif</string>
 	<key>magnet</key>
@@ -442,6 +466,20 @@
 	<string>microphone.glif</string>
 	<key>microphone_off</key>
 	<string>microphone_off.glif</string>
+	<key>mini_article</key>
+	<string>mini_article.glif</string>
+	<key>mini_challenge</key>
+	<string>mini_challenge.glif</string>
+	<key>mini_exercise</key>
+	<string>mini_exercise.glif</string>
+	<key>mini_project</key>
+	<string>mini_project.glif</string>
+	<key>mini_scratchpad</key>
+	<string>mini_scratchpad.glif</string>
+	<key>mini_talkie</key>
+	<string>mini_talkie.glif</string>
+	<key>mini_video</key>
+	<string>mini_video.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
 	<key>minus_sign</key>
@@ -710,6 +748,8 @@
 	<string>warning_sign.glif</string>
 	<key>wrench</key>
 	<string>wrench.glif</string>
+	<key>y</key>
+	<string>y.glif</string>
 	<key>youtube</key>
 	<string>youtube.glif</string>
 	<key>youtube_play</key>

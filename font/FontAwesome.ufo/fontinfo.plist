@@ -35,9 +35,9 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://fontawesome.io</string>
 	<key>openTypeNameUniqueID</key>
-	<string>Khan: FontAwesome: 2013</string>
+	<string>Khan: FontAwesome: 2014</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 3.5.5 2014</string>
+	<string>Version 3.6.5 2014</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>

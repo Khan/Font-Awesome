@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mini_talkie" format="1">
+  <advance width="1536"/>
+  <unicode hex="F318"/>
+  <outline>
+    <contour>
+      <point x="952" y="770" type="line"/>
+      <point x="824" y="770" type="line"/>
+      <point x="824" y="898" type="line"/>
+      <point x="952" y="898" type="line"/>
+    </contour>
+    <contour>
+      <point x="760" y="194" type="line"/>
+      <point x="632" y="194" type="line"/>
+      <point x="632" y="322" type="line"/>
+      <point x="760" y="322" type="line"/>
+    </contour>
+    <contour>
+      <point x="952" y="578" type="line"/>
+      <point x="824" y="578" type="line"/>
+      <point x="824" y="706" type="line"/>
+      <point x="952" y="706" type="line"/>
+    </contour>
+    <contour>
+      <point x="760" y="578" type="line"/>
+      <point x="632" y="578" type="line"/>
+      <point x="632" y="706" type="line"/>
+      <point x="760" y="706" type="line"/>
+    </contour>
+    <contour>
+      <point x="760" y="962" type="line"/>
+      <point x="632" y="962" type="line"/>
+      <point x="632" y="1090" type="line"/>
+      <point x="760" y="1090" type="line"/>
+    </contour>
+    <contour>
+      <point x="760" y="386" type="line"/>
+      <point x="632" y="386" type="line"/>
+      <point x="632" y="514" type="line"/>
+      <point x="760" y="514" type="line"/>
+    </contour>
+    <contour>
+      <point x="1144" y="576" type="line"/>
+      <point x="1016" y="576" type="line"/>
+      <point x="1016" y="704" type="line"/>
+      <point x="1144" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="952" y="386" type="line"/>
+      <point x="824" y="386" type="line"/>
+      <point x="824" y="514" type="line"/>
+      <point x="952" y="514" type="line"/>
+    </contour>
+    <contour>
+      <point x="760" y="770" type="line"/>
+      <point x="632" y="770" type="line"/>
+      <point x="632" y="898" type="line"/>
+      <point x="760" y="898" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1032</integer>
+                  <key>y</key>
+                  <integer>1164</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1292</integer>
+                  <key>y</key>
+                  <integer>904</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>1292</integer>
+                  <key>y</key>
+                  <integer>640</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1292</integer>
+                  <key>y</key>
+                  <integer>376</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1032</integer>
+                  <key>y</key>
+                  <integer>116</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>768</integer>
+                  <key>y</key>
+                  <integer>116</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>504</integer>
+                  <key>y</key>
+                  <integer>116</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>244</integer>
+                  <key>y</key>
+                  <integer>376</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>244</integer>
+                  <key>y</key>
+                  <integer>640</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>244</integer>
+                  <key>y</key>
+                  <integer>904</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>504</integer>
+                  <key>y</key>
+                  <integer>1164</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>768</integer>
+                  <key>y</key>
+                  <integer>1164</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>mini_talkie</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1536</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
