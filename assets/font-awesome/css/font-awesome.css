@@ -1441,3 +1441,6 @@ a .icon-flip-vertical:before {
 .icon-notification:before {
   content: "\f311";
 }
+.icon-circle-thin:before {
+  content: "\f1db";
+}
