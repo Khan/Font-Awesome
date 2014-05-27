@@ -2479,3 +2479,10 @@ icons:
     created:    3.5
     categories:
       - Brand Icons
+
+  - name:        Circle Outlined Thin
+    id:         circle-thin
+    unicode:    f1db
+    created:    3.6
+    categories:
+      - Web Application Icons
