@@ -142,6 +142,8 @@
 	<string>caret_up.glif</string>
 	<key>certificate</key>
 	<string>certificate.glif</string>
+	<key>challenge</key>
+	<string>challenge.glif</string>
 	<key>check</key>
 	<string>check.glif</string>
 	<key>check_empty</key>
@@ -226,6 +228,8 @@
 	<string>credit_card.glif</string>
 	<key>crop</key>
 	<string>crop.glif</string>
+	<key>cs_scratchpad</key>
+	<string>cs_scratchpad.glif</string>
 	<key>cut</key>
 	<string>cut.glif</string>
 	<key>d</key>
@@ -676,6 +680,8 @@
 	<string>tag.glif</string>
 	<key>tags</key>
 	<string>tags.glif</string>
+	<key>talkie</key>
+	<string>talkie.glif</string>
 	<key>tasks</key>
 	<string>tasks.glif</string>
 	<key>terminal</key>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="talkie" format="1">
+  <advance width="1664"/>
+  <unicode hex="F323"/>
+  <outline>
+    <contour>
+      <point x="1004" y="865" type="line"/>
+      <point x="789" y="865" type="line"/>
+      <point x="789" y="1088" type="line"/>
+      <point x="1004" y="1088" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="-138" type="line"/>
+      <point x="464" y="-138" type="line"/>
+      <point x="464" y="85" type="line"/>
+      <point x="680" y="85" type="line"/>
+    </contour>
+    <contour>
+      <point x="1004" y="531" type="line"/>
+      <point x="789" y="531" type="line"/>
+      <point x="789" y="753" type="line"/>
+      <point x="1004" y="753" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="531" type="line"/>
+      <point x="464" y="531" type="line"/>
+      <point x="464" y="753" type="line"/>
+      <point x="680" y="753" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="1198" type="line"/>
+      <point x="464" y="1198" type="line"/>
+      <point x="464" y="1422" type="line"/>
+      <point x="680" y="1422" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="196" type="line"/>
+      <point x="464" y="196" type="line"/>
+      <point x="464" y="420" type="line"/>
+      <point x="680" y="420" type="line"/>
+    </contour>
+    <contour>
+      <point x="1329" y="527" type="line"/>
+      <point x="1113" y="527" type="line"/>
+      <point x="1113" y="750" type="line"/>
+      <point x="1329" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="1004" y="196" type="line"/>
+      <point x="789" y="196" type="line"/>
+      <point x="789" y="420" type="line"/>
+      <point x="1004" y="420" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="865" type="line"/>
+      <point x="464" y="865" type="line"/>
+      <point x="464" y="1088" type="line"/>
+      <point x="680" y="1088" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>talkie</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1664</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

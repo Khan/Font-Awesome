@@ -1,5 +1,5 @@
 /*!
- *  Font Awesome 3.6.0
+ *  Font Awesome 3.6.1
  *  the iconic font designed for Bootstrap
  *  ------------------------------------------------------------------------------
  *  The full suite of pictographic icons, examples, and documentation can be
@@ -1876,6 +1876,21 @@ a [class*=" icon-"] {
 
 .icon-notification {
   @include ie7icon('&#xf311;');
+}
+
+
+.icon-challenge {
+  @include ie7icon('&#xf321;');
+}
+
+
+.icon-cs_scratchpad {
+  @include ie7icon('&#xf322;');
+}
+
+
+.icon-talkie {
+  @include ie7icon('&#xf323;');
 }
 
 

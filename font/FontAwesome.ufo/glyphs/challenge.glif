@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="challenge" format="1">
+  <advance width="1664"/>
+  <unicode hex="F321"/>
+  <outline>
+    <contour>
+      <point x="1083" y="649" type="line"/>
+      <point x="863" y="649" type="line"/>
+      <point x="863" y="848" type="line"/>
+      <point x="1083" y="848" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="649" type="line"/>
+      <point x="26" y="649" type="line"/>
+      <point x="26" y="848" type="line"/>
+      <point x="243" y="848" type="line"/>
+    </contour>
+    <contour>
+      <point x="1639" y="649" type="line"/>
+      <point x="1423" y="649" type="line"/>
+      <point x="1423" y="848" type="line"/>
+      <point x="1639" y="848" type="line"/>
+    </contour>
+    <contour>
+      <point x="646" y="140" type="line"/>
+      <point x="429" y="140" type="line"/>
+      <point x="429" y="340" type="line"/>
+      <point x="646" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="1206" y="140" type="line"/>
+      <point x="989" y="140" type="line"/>
+      <point x="989" y="340" type="line"/>
+      <point x="1206" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="1363" y="649" type="line"/>
+      <point x="1146" y="649" type="line"/>
+      <point x="1146" y="848" type="line"/>
+      <point x="1363" y="848" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="-58" type="line"/>
+      <point x="215" y="-58" type="line"/>
+      <point x="215" y="140" type="line"/>
+      <point x="429" y="140" type="line"/>
+    </contour>
+    <contour>
+      <point x="523" y="649" type="line"/>
+      <point x="306" y="649" type="line"/>
+      <point x="306" y="848" type="line"/>
+      <point x="523" y="848" type="line"/>
+    </contour>
+    <contour>
+      <point x="926" y="140" type="line"/>
+      <point x="708" y="140" type="line"/>
+      <point x="708" y="340" type="line"/>
+      <point x="926" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="1206" y="394" type="line"/>
+      <point x="989" y="394" type="line"/>
+      <point x="989" y="593" type="line"/>
+      <point x="1206" y="593" type="line"/>
+    </contour>
+    <contour>
+      <point x="926" y="903" type="line"/>
+      <point x="708" y="903" type="line"/>
+      <point x="708" y="1100" type="line"/>
+      <point x="926" y="1100" type="line"/>
+    </contour>
+    <contour>
+      <point x="646" y="394" type="line"/>
+      <point x="429" y="394" type="line"/>
+      <point x="429" y="593" type="line"/>
+      <point x="646" y="593" type="line"/>
+    </contour>
+    <contour>
+      <point x="926" y="1156" type="line"/>
+      <point x="708" y="1156" type="line"/>
+      <point x="708" y="1355" type="line"/>
+      <point x="926" y="1355" type="line"/>
+    </contour>
+    <contour>
+      <point x="803" y="649" type="line"/>
+      <point x="586" y="649" type="line"/>
+      <point x="586" y="848" type="line"/>
+      <point x="803" y="848" type="line"/>
+    </contour>
+    <contour>
+      <point x="1423" y="-58" type="line"/>
+      <point x="1206" y="-58" type="line"/>
+      <point x="1206" y="140" type="line"/>
+      <point x="1423" y="140" type="line"/>
+    </contour>
+    <contour>
+      <point x="926" y="394" type="line"/>
+      <point x="708" y="394" type="line"/>
+      <point x="708" y="593" type="line"/>
+      <point x="926" y="593" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>challenge</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1664</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

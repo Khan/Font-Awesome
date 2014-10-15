@@ -2480,6 +2480,27 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Challenge
+    id:         challenge
+    unicode:    f321
+    created:    3.6.1
+    categories:
+      - Brand Icons
+
+  - name:       CS Scratchpad
+    id:         cs_scratchpad
+    unicode:    f322
+    created:    3.6.1
+    categories:
+      - Brand Icons
+
+  - name:       Talkie
+    id:         talkie
+    unicode:    f323
+    created:    3.6.1
+    categories:
+      - Brand Icons
+
   - name:        Circle Outlined Thin
     id:         circle-thin
     unicode:    f1db

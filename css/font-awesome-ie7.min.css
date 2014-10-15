@@ -368,4 +368,7 @@ a [class^="icon-"],a [class*=" icon-"]{cursor:pointer}
 .icon-coaches{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf309;')}
 .icon-google{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf310;')}
 .icon-notification{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf311;')}
+.icon-challenge{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf321;')}
+.icon-cs_scratchpad{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf322;')}
+.icon-talkie{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf323;')}
 .icon-circle-thin{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1db;')}

@@ -424,6 +424,7 @@
 				<string>mini_challenge</string>
 				<string>mini_project</string>
 				<string>.notdef</string>
+				<string>_446</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -811,6 +812,9 @@
 		<string>mini_project</string>
 		<string>.notdef</string>
 		<string>_446</string>
+		<string>challenge</string>
+		<string>cs_scratchpad</string>
+		<string>talkie</string>
 	</array>
 </dict>
 </plist>
